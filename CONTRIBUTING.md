@@ -1,7 +1,3 @@
-## Buy Me Coffee Clone
-
-Open source ✔
-
 ### Contributing Rules ⚒
 
 1. Identify an [Issue](https://github.com/devlopersabbir/buy-me-coffee-clone/issues) or feature to add
